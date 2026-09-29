@@ -1,7 +1,7 @@
-# Repository_Praktikum_Struktur_Data
+# Repository Praktikum Struktur Data
 
 NIM : 109082500063
 
-NAMA : NAFISAH SALSABILA
+NAMA : Nafisah Salsabila
 
 KELAS : S1IF-13-04
