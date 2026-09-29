@@ -1,4 +1,4 @@
-#REPOSITORY_PRAKTIKUM_STRUKTUR_DATA
+# Repository_Praktikum_Struktur_Data
 
 NIM : 109082500063
 
