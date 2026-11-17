@@ -4,7 +4,7 @@
 
 ## Dasar Teori
 
-### 6.1. Doubly Linked List<br/>
+### 6.1. Doubly Linked List<br/> 
 Doubly linked list adalah linked list yang setiap elemennya memiliki dua successor (pointer), yaitu prev yang menunjuk ke elemen sebelumnya dan next yang menunjuk ke elemen sesudahnya. Karena punya dua arah, list ini bisa ditelusuri maju maupun mundur, sehingga proses akses elemen menjadi lebih mudah dibandingkan singly linked list. List dikatakan kosong jika L.first = Nil.
 
 ### 6.2. Komponen Doubly Linked List<br/>

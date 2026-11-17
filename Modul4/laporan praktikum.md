@@ -14,8 +14,12 @@ di dalamnya terdiri dari berbagai tipe data, misalnya: Data Mahasiswa, terdiri d
 NIM bertipe long integer, dan Alamat bertipe string.
 Linked list dapat diimplementasikan menggunakan Array dan Pointer (Linked list).
 
-### 4.2. Singly Linked List<br/>
-Singly Linked list merupakan model ADT Linked list yang hanya memiliki satu arah pointer.
+### 5.2. ADT Singly Linked List<br/>
+Seluruh operasi dasar pada singly linked list merupakan bagian dari ADT (Abstract Data Type)
+singly linked list. Pada bahasa pemrograman C/C++, ADT disimpan dalam dua file, yaitu file header
+(.h) yang berisi deklarasi tipe data dan prototype fungsi, serta file implementasi (.cpp) yang berisi
+isi dari fungsi-fungsi tersebut. Pemisahan ini membuat program lebih terstruktur dan mudah
+digunakan kembali.
 
 ## Guided
 
